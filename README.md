@@ -1,3 +1,5 @@
+## Basic app with React hooks as: context, reducer, state, ref. CSS antd & styled-components.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
